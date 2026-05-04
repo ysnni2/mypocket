@@ -23,4 +23,5 @@ pip install streamlit torch torchvision
 streamlit run app.py
 ```
 ## 데모 GUI 스크린샷 
-![demo](demo.png.png)
+<img width="1492" height="1257" alt="image" src="https://github.com/user-attachments/assets/ce40d17d-1172-4176-80a8-5c5b7127e215" />
+
