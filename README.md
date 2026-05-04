@@ -22,3 +22,5 @@ Pokemon image classifier using transfer learning with PyTorch.
 pip install streamlit torch torchvision
 streamlit run app.py
 ```
+## 데모 GUI 스크린샷 
+![demo]"C:\Users\seori\Pictures\Screenshots\스크린샷 2026-05-04 133958.png"
